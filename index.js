@@ -74,7 +74,7 @@ document.querySelector('#contacts').addEventListener('click',()=>{
         showSection.innerHTML=`
         <div class="contacts">
             <div >
-            <i class="fa-solid fa-phone"></i> 01096045934
+            <i class="fa-solid fa-phone"></i> <a href="">01096045934</a>
             </div>
             <div >
                 <i class="fa-solid fa-g"></i> 
