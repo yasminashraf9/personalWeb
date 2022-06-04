@@ -143,8 +143,8 @@ img.vanish{
     font-size: 1.2rem;
 }
 .skill:nth-child(2){ left: 190px; top: 30px; }
-.skill:nth-child(3){ left: -90px ;top: 100px; }
-.skill:nth-child(4){ left: 200px; top: 180px; }
+.skill:nth-child(3){ left: 200px ;top: 160px; }
+.skill:nth-child(4){ left: 220px; top: 200px; }
 .skill:nth-child(5){ left: 90px; top: -40px; }
 .skill:nth-child(6){ left: 80px; top: 215px;}
 .skill:nth-child(7){ left: -30px; top: 180px; }
@@ -154,6 +154,7 @@ img.vanish{
 .skill:nth-child(11){ left: 20px; top: 250px;}
 .skill:nth-child(12){ left: -20px; top: -50px;}
 .skill:nth-child(13){ left: 180px; top: 260px;}
+.skill:nth-child(14){ left: -90px ;top: 100px; }
 
 .skill.hide{
     animation-name: smatch;

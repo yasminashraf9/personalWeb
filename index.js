@@ -113,7 +113,7 @@ document.querySelector('#skills').addEventListener('click',()=>{
             <div class="skill">Scss</div>
             <div class="skill">Jquery</div>
             <div class="skill">GitHub</div>
-
+            <div class="skill">vueJS</div>
         </div>
         `
     },1100)
